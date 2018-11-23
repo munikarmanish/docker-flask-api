@@ -14,3 +14,6 @@ Stop the services:
 
     # ./down.sh
 
+Run test cases on the API
+
+    # ./test.sh
